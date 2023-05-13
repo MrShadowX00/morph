@@ -1,4 +1,0 @@
-#Fri Oct 28 18:54:58 UZT 2022
-base.0=/Users/mirkhujaev/StudioProjects/mobile/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-renamed.0=classes.dex
-path.0=classes.dex

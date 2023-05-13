@@ -1,2 +1,0 @@
-com/simform/audio_waveforms/BuildConfig.java
- com.simform.audio_waveforms.BuildConfig
